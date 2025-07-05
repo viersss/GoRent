@@ -13,6 +13,7 @@ Managing a vehicle rental service involves handling complex data, from vehicle a
 ![GoRent Screenshot](admin2.png)
 ![GoRent Screenshot](admin3.png)
 ![GoRent Screenshot](admin4.png)
+![GoRent Screenshot](admin5.png)
 
 ### View Customer
 ![GoRent Screenshot](cust1.png)
